@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+collections
+emoji
+datetime
+re
